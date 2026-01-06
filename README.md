@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Pratibha
 
-<!--
-**Pratibha0618/Pratibha0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Software Engineer | Backend & API Automation
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** focused on building API-driven systems, backend integrations, and reliable services. I have hands-on experience working with production systems, debugging real customer issues, and collaborating closely with core engineering teams. My background includes enterprise-scale integrations, data flow analysis, and service-level problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩‍💻 Former Software Engineer at **Avalara Technologies Pvt. Ltd.**
+* 🔍 Actively seeking **SDE-1 / Backend Engineer** roles
+* 🌱 Currently strengthening **System Design, and Golang**
+* ⚙️ Strong foundation in **DSA, OOP, APIs, and Distributed Systems**
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+Java, JavaScript, Python, C++, SQL, C#
+
+**Backend & APIs**
+Spring Boot, Node.js, Django, REST APIs, Microservices, SOAP, .NET
+
+**Frontend**
+React, TypeScript, HTML, CSS
+
+**Databases & Cloud**
+MySQL, MongoDB, Firebase, AWS
+
+**Core Fundamentals**
+Data Structures & Algorithms, OOPs, DBMS, Operating Systems, Computer Networks, SDLC, Agile (Scrum)
+
+**Testing (Secondary)**
+JUnit, Mockito, Selenium, TestNG
+
+---
+
+## 📫 Contact
+
+* 💼 LinkedIn: *(https://www.linkedin.com/in/pratibha-malpotra-9a5873201)*
+* 📧 Email: *(pratibha.akm@gmail.com)*
+
+---
+
+⭐ *Open to backend, platform, and SDE-1 opportunities. Happy to connect!*
